@@ -1,0 +1,27 @@
+{
+  "name": "aoc2025",
+  "version": "1.0.0",
+  "description": "My attempt at Advent of Code 2025",
+  "main": "./build/main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ultimatehecker/AOC2025.git"
+  },
+  "author": "ultimate_hecker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ultimatehecker/AOC2025/issues"
+  },
+  "homepage": "https://github.com/ultimatehecker/AOC2025#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "readline": "^1.3.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.10.1"
+  }
+}
